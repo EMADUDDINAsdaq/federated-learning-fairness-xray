@@ -309,6 +309,7 @@ If referencing this work, please cite:
 > Computing, Newcastle University.
 
 **Supervision:** Dr Jichun Li (School of Computing, Newcastle University)
+**Co-supervision:** Dr Ayse Cengiz (School of Computing, Newcastle University)
 
 **Dataset:** NIH ChestX-ray14 (Wang et al., 2017), accessed via
 [Kaggle](https://www.kaggle.com/datasets/nih-chest-xrays/data)
