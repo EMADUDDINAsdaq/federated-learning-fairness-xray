@@ -1,0 +1,23 @@
+# Core dependencies for this project.
+#
+# All notebooks were developed and run on Google Colab, where torch,
+# torchvision, numpy, pandas, Pillow, and scikit-learn are pre-installed.
+# flwr[simulation] and kaggle are installed at runtime by the notebooks
+# themselves (see Cell/Section 1 of each notebook).
+#
+# Versions are intentionally left unpinned: Colab manages its own base
+# image and CUDA-compatible torch/torchvision build, and pinning to a
+# specific patch version risks breaking installation on a future Colab
+# runtime rather than aiding reproducibility. Exact library versions used
+# at the time of the original experiments are printed at the top of each
+# notebook's first cell (torch, numpy, flwr) for reference.
+
+flwr[simulation]
+torch
+torchvision
+numpy
+pandas
+Pillow
+scikit-learn
+matplotlib
+kaggle
