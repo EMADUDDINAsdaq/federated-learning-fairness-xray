@@ -113,7 +113,7 @@ alone.
 
 | Method | Mechanism |
 |---|---|
-| FedAvg (McMahan et al., 2017) | Size-weighted average of client updates; no fairness mechanism |
+| FedAvg (McMahan et al., 2016) | Size-weighted average of client updates; no fairness mechanism |
 | q-FedAvg (Li et al., 2020) | Reweights updates by client loss raised to the power *q* |
 | Ada-IFFL (Cong et al., 2023) | Computes the fairness exponent *q* adaptively, per client, per round |
 | GIFAIR-Global (Yue et al., 2022, Algorithm 2) | Gradient scaling by relative loss rank, shared global model |
@@ -230,7 +230,7 @@ federated-learning-fairness-xray/
 ├── README.md
 ├── notebooks/
 │   ├── 00_dataset_freezing.ipynb    — generates the frozen, patient-disjoint data split
-│   ├── 01_fedavg.ipynb              — FedAvg (McMahan et al., 2017)
+│   ├── 01_fedavg.ipynb              — FedAvg (McMahan et al., 2016)
 │   ├── 02_qfedavg.ipynb             — q-FedAvg (Li et al., 2020)
 │   ├── 03_adaiffl.ipynb             — Ada-IFFL (Cong et al., 2023)
 │   ├── 04_gifair_global.ipynb       — GIFAIR-Global (Yue et al., 2022, Algorithm 2)
