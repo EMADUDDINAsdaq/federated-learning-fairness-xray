@@ -155,6 +155,9 @@ including the mechanism underlying GIFAIR's client- versus
 demographic-level regularisation and the implementation correction
 applied to both GIFAIR variants, is provided in Sections 5 and 6 of the
 accompanying dissertation.
+Bootstrap confidence intervals (95%, 1,000 resamples) confirm this global
+accuracy ranking is statistically robust — the three converged methods'
+intervals do not overlap at any pairwise comparison (Appendix C).
 
 ### Figures
 
