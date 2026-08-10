@@ -308,7 +308,7 @@ If referencing this work, please cite:
 > Classification under Data Imbalance*. MSc Dissertation, School of
 > Computing, Newcastle University.
 
-**Supervision:** Dr Jichun Li (School of Computing, Newcastle University)
+**Supervision:** Dr Jichun Li (School of Computing, Newcastle University),
 **Co-supervision:** Dr Ayse Cengiz (School of Computing, Newcastle University)
 
 **Dataset:** NIH ChestX-ray14 (Wang et al., 2017), accessed via
