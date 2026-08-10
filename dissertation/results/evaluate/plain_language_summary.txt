@@ -1,0 +1,7 @@
+Method         Works?    AUC     Fairness gap  Takeaway
+----------------------------------------------------------------------------------------------------
+FedAvg         Yes       0.756   0.2214        One of 3 methods that converged to a working classifier; highest AUC in this study, though not the lowest fairness gap here
+q-FedAvg       No        0.457   0.1367        Ranking ability at/below random chance — did not train successfully
+Ada-IFFL       No        0.454   0.0016        Predicted "healthy" almost always (0.1% positive) — did not learn
+GIFAIR-Global  Yes       0.724   0.1154        Most consistent across hospitals among the 3 methods that converged
+GIFAIR-Per     Yes       0.869   0.0793        Leads on demographic and intersectional fairness among the 3 methods that converged

@@ -1,0 +1,146 @@
+Image Index,Finding Labels,Follow-up #,Patient ID,Patient Age,Patient Sex,View Position,OriginalImage[Width,Height],OriginalImagePixelSpacing[x,y],label,Age Group,image_path
+00004551_000.png,No Finding,0,4551,32,F,PA,2992,2991,0.143,0.143,0,20-40,/content/nih_kaggle/images_003/images/00004551_000.png
+00007322_022.png,No Finding,22,7322,68,F,AP,2500,2048,0.171,0.171,0,60-80,/content/nih_kaggle/images_004/images/00007322_022.png
+00003534_002.png,No Finding,2,3534,21,F,AP,2500,2048,0.168,0.168,0,20-40,/content/nih_kaggle/images_002/images/00003534_002.png
+00015289_001.png,No Finding,1,15289,51,M,AP,2500,2048,0.168,0.168,0,40-60,/content/nih_kaggle/images_007/images/00015289_001.png
+00012989_001.png,No Finding,1,12989,52,F,PA,2992,2991,0.143,0.143,0,40-60,/content/nih_kaggle/images_006/images/00012989_001.png
+00028105_004.png,No Finding,4,28105,38,M,PA,1910,2021,0.194311,0.194311,0,20-40,/content/nih_kaggle/images_011/images/00028105_004.png
+00012955_000.png,No Finding,0,12955,27,F,PA,2622,2619,0.143,0.143,0,20-40,/content/nih_kaggle/images_006/images/00012955_000.png
+00015628_011.png,No Finding,11,15628,47,M,AP,2500,2048,0.168,0.168,0,40-60,/content/nih_kaggle/images_007/images/00015628_011.png
+00001681_000.png,No Finding,0,1681,33,F,PA,2596,2546,0.143,0.143,0,20-40,/content/nih_kaggle/images_002/images/00001681_000.png
+00013527_002.png,No Finding,2,13527,61,M,AP,2500,2048,0.168,0.168,0,60-80,/content/nih_kaggle/images_006/images/00013527_002.png
+00020412_000.png,No Finding,0,20412,32,F,PA,2646,2991,0.143,0.143,0,20-40,/content/nih_kaggle/images_009/images/00020412_000.png
+00007169_000.png,No Finding,0,7169,57,F,AP,2500,2048,0.171,0.171,0,40-60,/content/nih_kaggle/images_004/images/00007169_000.png
+00030709_000.png,No Finding,0,30709,48,M,PA,2021,2020,0.194311,0.194311,0,40-60,/content/nih_kaggle/images_012/images/00030709_000.png
+00007191_008.png,No Finding,8,7191,29,M,PA,2500,2048,0.168,0.168,0,20-40,/content/nih_kaggle/images_004/images/00007191_008.png
+00015869_003.png,No Finding,3,15869,44,F,PA,2770,2989,0.143,0.143,0,40-60,/content/nih_kaggle/images_007/images/00015869_003.png
+00001248_027.png,No Finding,27,1248,33,F,PA,2992,2991,0.143,0.143,0,20-40,/content/nih_kaggle/images_001/images/00001248_027.png
+00019522_006.png,No Finding,6,19522,69,F,AP,3056,2544,0.139,0.139,0,60-80,/content/nih_kaggle/images_009/images/00019522_006.png
+00014849_001.png,No Finding,1,14849,58,M,AP,2500,2048,0.168,0.168,0,40-60,/content/nih_kaggle/images_007/images/00014849_001.png
+00022869_004.png,No Finding,4,22869,38,M,PA,2992,2991,0.143,0.143,0,20-40,/content/nih_kaggle/images_010/images/00022869_004.png
+00008203_000.png,No Finding,0,8203,50,F,PA,2048,2500,0.168,0.168,0,40-60,/content/nih_kaggle/images_004/images/00008203_000.png
+00015167_001.png,No Finding,1,15167,57,M,PA,2690,2991,0.143,0.143,0,40-60,/content/nih_kaggle/images_007/images/00015167_001.png
+00024816_000.png,No Finding,0,24816,38,M,PA,2798,2625,0.143,0.143,0,20-40,/content/nih_kaggle/images_011/images/00024816_000.png
+00013206_002.png,No Finding,2,13206,14,F,AP,2500,2048,0.168,0.168,0,0-20,/content/nih_kaggle/images_006/images/00013206_002.png
+00015869_011.png,No Finding,11,15869,44,F,PA,2992,2991,0.143,0.143,0,40-60,/content/nih_kaggle/images_007/images/00015869_011.png
+00004006_000.png,No Finding,0,4006,39,F,PA,2544,3056,0.139,0.139,0,20-40,/content/nih_kaggle/images_003/images/00004006_000.png
+00016239_003.png,No Finding,3,16239,44,F,PA,2992,2991,0.143,0.143,0,40-60,/content/nih_kaggle/images_008/images/00016239_003.png
+00027479_009.png,No Finding,9,27479,51,M,AP,3056,2544,0.139,0.139,0,40-60,/content/nih_kaggle/images_011/images/00027479_009.png
+00020424_003.png,No Finding,3,20424,27,M,PA,2021,2021,0.194311,0.194311,0,20-40,/content/nih_kaggle/images_009/images/00020424_003.png
+00016631_002.png,No Finding,2,16631,29,M,PA,2992,2991,0.143,0.143,0,20-40,/content/nih_kaggle/images_008/images/00016631_002.png
+00026435_000.png,No Finding,0,26435,71,M,AP,3056,2544,0.139,0.139,0,60-80,/content/nih_kaggle/images_011/images/00026435_000.png
+00029839_002.png,No Finding,2,29839,36,M,PA,3056,2544,0.139,0.139,0,20-40,/content/nih_kaggle/images_012/images/00029839_002.png
+00021552_014.png,No Finding,14,21552,50,M,AP,2956,2544,0.139,0.139,0,40-60,/content/nih_kaggle/images_010/images/00021552_014.png
+00013272_002.png,No Finding,2,13272,49,M,PA,2992,2991,0.143,0.143,0,40-60,/content/nih_kaggle/images_006/images/00013272_002.png
+00004547_012.png,No Finding,12,4547,55,M,AP,2500,2048,0.168,0.168,0,40-60,/content/nih_kaggle/images_003/images/00004547_012.png
+00022237_025.png,No Finding,25,22237,68,M,AP,3056,2544,0.139,0.139,0,60-80,/content/nih_kaggle/images_010/images/00022237_025.png
+00010350_010.png,No Finding,10,10350,50,F,AP,2500,2048,0.168,0.168,0,40-60,/content/nih_kaggle/images_005/images/00010350_010.png
+00005115_000.png,No Finding,0,5115,63,F,PA,2048,2500,0.171,0.171,0,60-80,/content/nih_kaggle/images_003/images/00005115_000.png
+00010756_001.png,No Finding,1,10756,60,F,PA,2992,2991,0.143,0.143,0,40-60,/content/nih_kaggle/images_005/images/00010756_001.png
+00012733_001.png,No Finding,1,12733,67,M,PA,2722,2948,0.143,0.143,0,60-80,/content/nih_kaggle/images_006/images/00012733_001.png
+00025812_001.png,No Finding,1,25812,48,M,PA,2992,2991,0.143,0.143,0,40-60,/content/nih_kaggle/images_011/images/00025812_001.png
+00014551_007.png,No Finding,7,14551,20,F,AP,2500,2048,0.168,0.168,0,0-20,/content/nih_kaggle/images_007/images/00014551_007.png
+00012733_004.png,Atelectasis,4,12733,71,M,PA,3056,2532,0.139,0.139,1,60-80,/content/nih_kaggle/images_006/images/00012733_004.png
+00027196_015.png,Infiltration,15,27196,20,F,AP,3056,2428,0.139,0.139,1,0-20,/content/nih_kaggle/images_011/images/00027196_015.png
+00005194_000.png,Nodule,0,5194,41,F,AP,2500,2048,0.171,0.171,1,40-60,/content/nih_kaggle/images_003/images/00005194_000.png
+00007894_004.png,Atelectasis,4,7894,72,M,PA,2992,2991,0.143,0.143,1,60-80,/content/nih_kaggle/images_004/images/00007894_004.png
+00003546_010.png,Infiltration,10,3546,27,M,PA,2500,2048,0.171,0.171,1,20-40,/content/nih_kaggle/images_002/images/00003546_010.png
+00005835_002.png,Atelectasis|Effusion,2,5835,37,M,AP,2500,2048,0.171,0.171,1,20-40,/content/nih_kaggle/images_003/images/00005835_002.png
+00026281_000.png,Pneumothorax,0,26281,48,F,PA,2992,2991,0.143,0.143,1,40-60,/content/nih_kaggle/images_011/images/00026281_000.png
+00010264_001.png,Atelectasis,1,10264,46,M,PA,2450,2991,0.143,0.143,1,40-60,/content/nih_kaggle/images_005/images/00010264_001.png
+00009149_002.png,Pneumothorax,2,9149,48,F,PA,2598,2665,0.143,0.143,1,40-60,/content/nih_kaggle/images_004/images/00009149_002.png
+00027383_000.png,Infiltration|Pleural_Thickening,0,27383,24,M,PA,2992,2991,0.143,0.143,1,20-40,/content/nih_kaggle/images_011/images/00027383_000.png
+00015081_014.png,Nodule,14,15081,53,M,AP,2500,2048,0.168,0.168,1,40-60,/content/nih_kaggle/images_007/images/00015081_014.png
+00026400_000.png,Atelectasis,0,26400,77,M,PA,2838,2813,0.143,0.143,1,60-80,/content/nih_kaggle/images_011/images/00026400_000.png
+00028334_002.png,Atelectasis|Effusion,2,28334,49,F,AP,3056,2544,0.139,0.139,1,40-60,/content/nih_kaggle/images_012/images/00028334_002.png
+00010780_015.png,Mass|Nodule,15,10780,35,M,PA,2500,2048,0.168,0.168,1,20-40,/content/nih_kaggle/images_005/images/00010780_015.png
+00004091_000.png,Atelectasis,0,4091,63,F,AP,2500,2048,0.168,0.168,1,60-80,/content/nih_kaggle/images_003/images/00004091_000.png
+00020993_000.png,Fibrosis,0,20993,75,M,PA,2992,2991,0.143,0.143,1,60-80,/content/nih_kaggle/images_010/images/00020993_000.png
+00025518_001.png,Fibrosis,1,25518,41,M,PA,2992,2991,0.143,0.143,1,40-60,/content/nih_kaggle/images_011/images/00025518_001.png
+00018613_000.png,Effusion,0,18613,63,F,PA,2446,2991,0.143,0.143,1,60-80,/content/nih_kaggle/images_009/images/00018613_000.png
+00021704_007.png,Infiltration,7,21704,26,F,PA,2992,2991,0.143,0.143,1,20-40,/content/nih_kaggle/images_010/images/00021704_007.png
+00021381_028.png,Infiltration,28,21381,65,F,PA,2618,2991,0.143,0.143,1,60-80,/content/nih_kaggle/images_010/images/00021381_028.png
+00006605_006.png,Pneumothorax,6,6605,24,F,AP,2500,2048,0.171,0.171,1,20-40,/content/nih_kaggle/images_004/images/00006605_006.png
+00005372_005.png,Atelectasis,5,5372,47,M,AP,2500,2048,0.171,0.171,1,40-60,/content/nih_kaggle/images_003/images/00005372_005.png
+00008007_000.png,Infiltration,0,8007,34,M,PA,2992,2991,0.143,0.143,1,20-40,/content/nih_kaggle/images_004/images/00008007_000.png
+00029880_008.png,Pneumothorax,8,29880,66,M,AP,3056,2544,0.139,0.139,1,60-80,/content/nih_kaggle/images_012/images/00029880_008.png
+00025845_000.png,Cardiomegaly,0,25845,8,F,PA,1673,1439,0.194311,0.194311,1,0-20,/content/nih_kaggle/images_011/images/00025845_000.png
+00014362_005.png,Edema|Effusion|Infiltration,5,14362,45,F,AP,2500,2048,0.168,0.168,1,40-60,/content/nih_kaggle/images_007/images/00014362_005.png
+00011021_031.png,Atelectasis,31,11021,73,F,AP,3056,2544,0.139,0.139,1,60-80,/content/nih_kaggle/images_005/images/00011021_031.png
+00019730_005.png,Effusion,5,19730,31,F,AP,2500,2048,0.168,0.168,1,20-40,/content/nih_kaggle/images_009/images/00019730_005.png
+00018657_009.png,Atelectasis|Effusion,9,18657,76,F,AP,3056,2544,0.139,0.139,1,60-80,/content/nih_kaggle/images_009/images/00018657_009.png
+00030419_002.png,Cardiomegaly|Effusion,2,30419,12,M,AP,3056,2544,0.139,0.139,1,0-20,/content/nih_kaggle/images_012/images/00030419_002.png
+00022290_020.png,Consolidation|Effusion,20,22290,58,M,AP,3056,2544,0.139,0.139,1,40-60,/content/nih_kaggle/images_010/images/00022290_020.png
+00014536_003.png,Infiltration,3,14536,62,F,PA,2992,2991,0.143,0.143,1,60-80,/content/nih_kaggle/images_007/images/00014536_003.png
+00000882_001.png,Nodule|Pleural_Thickening,1,882,60,F,AP,3056,2544,0.139,0.139,1,40-60,/content/nih_kaggle/images_001/images/00000882_001.png
+00030580_000.png,Infiltration,0,30580,63,F,PA,2544,3056,0.139,0.139,1,60-80,/content/nih_kaggle/images_012/images/00030580_000.png
+00011619_002.png,Cardiomegaly|Effusion,2,11619,30,M,AP,2500,2048,0.168,0.168,1,20-40,/content/nih_kaggle/images_006/images/00011619_002.png
+00006774_001.png,Atelectasis|Effusion|Fibrosis,1,6774,38,F,PA,2048,2500,0.171,0.171,1,20-40,/content/nih_kaggle/images_004/images/00006774_001.png
+00018003_001.png,Effusion|Pleural_Thickening,1,18003,66,M,AP,2500,2048,0.168,0.168,1,60-80,/content/nih_kaggle/images_008/images/00018003_001.png
+00003283_000.png,Cardiomegaly,0,3283,58,M,PA,2766,2665,0.143,0.143,1,40-60,/content/nih_kaggle/images_002/images/00003283_000.png
+00016240_009.png,Consolidation|Nodule,9,16240,51,M,AP,2500,2048,0.168,0.168,1,40-60,/content/nih_kaggle/images_008/images/00016240_009.png
+00014663_035.png,Mass|Nodule,35,14663,63,M,AP,2500,2048,0.168,0.168,1,60-80,/content/nih_kaggle/images_007/images/00014663_035.png
+00020195_002.png,Infiltration|Nodule|Pleural_Thickening,2,20195,51,M,PA,2992,2991,0.143,0.143,1,40-60,/content/nih_kaggle/images_009/images/00020195_002.png
+00022977_009.png,Effusion|Infiltration|Mass|Nodule|Pleural_Thickening,9,22977,43,M,AP,3056,2544,0.139,0.139,1,40-60,/content/nih_kaggle/images_010/images/00022977_009.png
+00020537_003.png,Nodule,3,20537,52,M,AP,3056,2544,0.139,0.139,1,40-60,/content/nih_kaggle/images_009/images/00020537_003.png
+00029036_000.png,Infiltration,0,29036,25,M,PA,2021,2021,0.194311,0.194311,1,20-40,/content/nih_kaggle/images_012/images/00029036_000.png
+00026349_003.png,Atelectasis,3,26349,46,M,PA,2992,2991,0.143,0.143,1,40-60,/content/nih_kaggle/images_011/images/00026349_003.png
+00015507_001.png,Atelectasis|Hernia,1,15507,67,F,PA,2544,3056,0.139,0.139,1,60-80,/content/nih_kaggle/images_007/images/00015507_001.png
+00007865_004.png,Atelectasis|Emphysema,4,7865,68,F,PA,2810,2809,0.143,0.143,1,60-80,/content/nih_kaggle/images_004/images/00007865_004.png
+00000180_003.png,Effusion,3,180,65,M,PA,3056,2544,0.139,0.139,1,60-80,/content/nih_kaggle/images_001/images/00000180_003.png
+00010367_006.png,Infiltration,6,10367,25,M,PA,2992,2991,0.143,0.143,1,20-40,/content/nih_kaggle/images_005/images/00010367_006.png
+00002170_000.png,Emphysema|Nodule|Pleural_Thickening,0,2170,75,M,PA,2778,2863,0.143,0.143,1,60-80,/content/nih_kaggle/images_002/images/00002170_000.png
+00006774_004.png,Edema|Effusion|Infiltration,4,6774,38,F,AP,2500,2048,0.171,0.171,1,20-40,/content/nih_kaggle/images_004/images/00006774_004.png
+00015588_005.png,Cardiomegaly,5,15588,55,F,AP,2500,2048,0.168,0.168,1,40-60,/content/nih_kaggle/images_007/images/00015588_005.png
+00020340_010.png,Consolidation,10,20340,72,M,AP,3056,2544,0.139,0.139,1,60-80,/content/nih_kaggle/images_009/images/00020340_010.png
+00019730_021.png,Consolidation|Effusion,21,19730,32,F,PA,2370,2629,0.143,0.143,1,20-40,/content/nih_kaggle/images_009/images/00019730_021.png
+00018657_001.png,Atelectasis,1,18657,74,F,PA,2794,2425,0.143,0.143,1,60-80,/content/nih_kaggle/images_009/images/00018657_001.png
+00005986_007.png,Infiltration,7,5986,33,M,PA,2500,2048,0.171,0.171,1,20-40,/content/nih_kaggle/images_003/images/00005986_007.png
+00016797_001.png,Atelectasis|Effusion|Emphysema|Pneumothorax,1,16797,73,F,PA,2602,2991,0.143,0.143,1,60-80,/content/nih_kaggle/images_008/images/00016797_001.png
+00008727_000.png,Infiltration|Nodule,0,8727,57,M,PA,2992,2991,0.143,0.143,1,40-60,/content/nih_kaggle/images_004/images/00008727_000.png
+00003494_001.png,Pneumothorax,1,3494,24,F,PA,2048,2500,0.168,0.168,1,20-40,/content/nih_kaggle/images_002/images/00003494_001.png
+00001706_001.png,Atelectasis|Pneumonia,1,1706,55,M,PA,2500,2048,0.168,0.168,1,40-60,/content/nih_kaggle/images_002/images/00001706_001.png
+00029678_001.png,Atelectasis|Nodule,1,29678,67,F,PA,2021,2021,0.194311,0.194311,1,60-80,/content/nih_kaggle/images_012/images/00029678_001.png
+00022237_002.png,Nodule|Pleural_Thickening|Mass,2,22237,69,M,PA,2992,2991,0.143,0.143,1,60-80,/content/nih_kaggle/images_010/images/00022237_002.png
+00008291_010.png,Edema,10,8291,34,F,AP,2500,2048,0.168,0.168,1,20-40,/content/nih_kaggle/images_004/images/00008291_010.png
+00029822_009.png,Atelectasis|Pneumothorax,9,29822,78,M,PA,2021,2021,0.194311,0.194311,1,60-80,/content/nih_kaggle/images_012/images/00029822_009.png
+00010638_002.png,Infiltration,2,10638,74,M,PA,2992,2991,0.143,0.143,1,60-80,/content/nih_kaggle/images_005/images/00010638_002.png
+00008760_008.png,Effusion,8,8760,67,M,PA,2992,2991,0.143,0.143,1,60-80,/content/nih_kaggle/images_004/images/00008760_008.png
+00013659_027.png,Infiltration,27,13659,64,F,AP,3028,2544,0.139,0.139,1,60-80,/content/nih_kaggle/images_006/images/00013659_027.png
+00009562_003.png,Atelectasis,3,9562,36,F,PA,2992,2991,0.143,0.143,1,20-40,/content/nih_kaggle/images_005/images/00009562_003.png
+00019486_001.png,Cardiomegaly|Effusion,1,19486,47,M,PA,2702,2991,0.143,0.143,1,40-60,/content/nih_kaggle/images_009/images/00019486_001.png
+00010496_007.png,Infiltration,7,10496,45,M,AP,2500,2048,0.168,0.168,1,40-60,/content/nih_kaggle/images_005/images/00010496_007.png
+00020364_005.png,Infiltration,5,20364,50,M,PA,2936,2948,0.143,0.143,1,40-60,/content/nih_kaggle/images_009/images/00020364_005.png
+00011845_017.png,Mass,17,11845,67,F,PA,2694,2991,0.143,0.143,1,60-80,/content/nih_kaggle/images_006/images/00011845_017.png
+00009256_008.png,Atelectasis|Effusion,8,9256,55,F,PA,2048,2500,0.168,0.168,1,40-60,/content/nih_kaggle/images_005/images/00009256_008.png
+00019330_001.png,Atelectasis|Effusion,1,19330,23,M,PA,2462,2662,0.143,0.143,1,20-40,/content/nih_kaggle/images_009/images/00019330_001.png
+00013300_001.png,Effusion|Infiltration,1,13300,16,M,AP,2500,2048,0.168,0.168,1,0-20,/content/nih_kaggle/images_006/images/00013300_001.png
+00022063_000.png,Fibrosis,0,22063,51,F,PA,2434,2541,0.143,0.143,1,40-60,/content/nih_kaggle/images_010/images/00022063_000.png
+00021041_012.png,Effusion,12,21041,68,M,AP,3056,2544,0.139,0.139,1,60-80,/content/nih_kaggle/images_010/images/00021041_012.png
+00014362_014.png,Consolidation|Effusion,14,14362,45,F,AP,2500,2048,0.168,0.168,1,40-60,/content/nih_kaggle/images_007/images/00014362_014.png
+00022877_010.png,Infiltration|Nodule,10,22877,56,F,AP,3056,2544,0.139,0.139,1,40-60,/content/nih_kaggle/images_010/images/00022877_010.png
+00016778_020.png,Infiltration,20,16778,26,M,AP,3056,2544,0.139,0.139,1,20-40,/content/nih_kaggle/images_008/images/00016778_020.png
+00011868_005.png,Atelectasis,5,11868,23,M,PA,2956,2951,0.143,0.143,1,20-40,/content/nih_kaggle/images_006/images/00011868_005.png
+00015414_000.png,Cardiomegaly,0,15414,38,M,PA,2992,2991,0.143,0.143,1,20-40,/content/nih_kaggle/images_007/images/00015414_000.png
+00001249_008.png,Edema|Infiltration,8,1249,41,M,AP,2500,2048,0.168,0.168,1,40-60,/content/nih_kaggle/images_001/images/00001249_008.png
+00018328_000.png,Infiltration,0,18328,64,M,PA,2992,2991,0.143,0.143,1,60-80,/content/nih_kaggle/images_008/images/00018328_000.png
+00007322_015.png,Consolidation,15,7322,68,F,AP,2500,2048,0.171,0.171,1,60-80,/content/nih_kaggle/images_004/images/00007322_015.png
+00027891_000.png,Nodule,0,27891,66,M,PA,2544,3056,0.139,0.139,1,60-80,/content/nih_kaggle/images_011/images/00027891_000.png
+00022072_007.png,Infiltration,7,22072,29,M,PA,2992,2991,0.143,0.143,1,20-40,/content/nih_kaggle/images_010/images/00022072_007.png
+00005416_003.png,Nodule,3,5416,60,F,AP,2500,2048,0.171,0.171,1,40-60,/content/nih_kaggle/images_003/images/00005416_003.png
+00007894_001.png,Fibrosis|Mass,1,7894,71,M,PA,2500,2048,0.168,0.168,1,60-80,/content/nih_kaggle/images_004/images/00007894_001.png
+00029043_002.png,Cardiomegaly,2,29043,73,M,PA,2021,2021,0.194311,0.194311,1,60-80,/content/nih_kaggle/images_012/images/00029043_002.png
+00011366_000.png,Infiltration,0,11366,60,M,PA,2992,2991,0.143,0.143,1,40-60,/content/nih_kaggle/images_005/images/00011366_000.png
+00029755_003.png,Effusion,3,29755,51,F,AP,3266,2801,0.139,0.139,1,40-60,/content/nih_kaggle/images_012/images/00029755_003.png
+00015628_028.png,Atelectasis,28,15628,50,M,PA,2992,2991,0.143,0.143,1,40-60,/content/nih_kaggle/images_007/images/00015628_028.png
+00004001_002.png,Nodule,2,4001,67,F,PA,2992,2697,0.143,0.143,1,60-80,/content/nih_kaggle/images_003/images/00004001_002.png
+00003741_001.png,Effusion,1,3741,69,M,PA,2500,2048,0.168,0.168,1,60-80,/content/nih_kaggle/images_002/images/00003741_001.png
+00023173_002.png,Atelectasis,2,23173,55,M,PA,2992,2991,0.143,0.143,1,40-60,/content/nih_kaggle/images_010/images/00023173_002.png
+00005026_008.png,Infiltration,8,5026,38,M,AP,2500,2048,0.171,0.171,1,20-40,/content/nih_kaggle/images_003/images/00005026_008.png
+00001601_012.png,Atelectasis|Consolidation|Effusion|Nodule,12,1601,60,F,PA,2992,2991,0.143,0.143,1,40-60,/content/nih_kaggle/images_002/images/00001601_012.png
+00008899_009.png,Infiltration,9,8899,31,F,PA,2544,2848,0.139,0.139,1,20-40,/content/nih_kaggle/images_004/images/00008899_009.png
+00006605_010.png,Pneumothorax,10,6605,24,F,AP,2500,2048,0.171,0.171,1,20-40,/content/nih_kaggle/images_004/images/00006605_010.png
+00010185_001.png,Atelectasis,1,10185,39,M,AP,2500,2048,0.168,0.168,1,20-40,/content/nih_kaggle/images_005/images/00010185_001.png
+00012576_016.png,Effusion|Nodule,16,12576,59,M,PA,2992,2991,0.143,0.143,1,40-60,/content/nih_kaggle/images_006/images/00012576_016.png
+00010264_005.png,Infiltration,5,10264,46,M,AP,2500,2048,0.168,0.168,1,40-60,/content/nih_kaggle/images_005/images/00010264_005.png
+00016867_005.png,Atelectasis,5,16867,52,F,AP,2500,2048,0.168,0.168,1,40-60,/content/nih_kaggle/images_008/images/00016867_005.png

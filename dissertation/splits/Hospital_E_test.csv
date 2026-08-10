@@ -1,0 +1,169 @@
+Image Index,Finding Labels,Follow-up #,Patient ID,Patient Age,Patient Sex,View Position,OriginalImage[Width,Height],OriginalImagePixelSpacing[x,y],label,Age Group,image_path
+00010149_000.png,No Finding,0,10149,50,M,PA,2500,2048,0.168,0.168,0,40-60,/content/nih_kaggle/images_005/images/00010149_000.png
+00028044_004.png,No Finding,4,28044,29,F,PA,1678,1883,0.194311,0.194311,0,20-40,/content/nih_kaggle/images_011/images/00028044_004.png
+00014710_017.png,No Finding,17,14710,59,F,AP,2048,2500,0.168,0.168,0,40-60,/content/nih_kaggle/images_007/images/00014710_017.png
+00013194_010.png,No Finding,10,13194,52,M,PA,2500,2048,0.168,0.168,0,40-60,/content/nih_kaggle/images_006/images/00013194_010.png
+00005418_011.png,No Finding,11,5418,63,M,PA,2500,2048,0.168,0.168,0,60-80,/content/nih_kaggle/images_003/images/00005418_011.png
+00002574_000.png,No Finding,0,2574,68,M,PA,2500,2048,0.168,0.168,0,60-80,/content/nih_kaggle/images_002/images/00002574_000.png
+00014106_015.png,No Finding,15,14106,32,M,AP,2500,2048,0.168,0.168,0,20-40,/content/nih_kaggle/images_007/images/00014106_015.png
+00008067_020.png,No Finding,20,8067,44,M,AP,2500,2048,0.168,0.168,0,40-60,/content/nih_kaggle/images_004/images/00008067_020.png
+00028185_000.png,No Finding,0,28185,62,M,PA,3056,2544,0.139,0.139,0,60-80,/content/nih_kaggle/images_012/images/00028185_000.png
+00021937_001.png,No Finding,1,21937,67,M,PA,3056,2544,0.139,0.139,0,60-80,/content/nih_kaggle/images_010/images/00021937_001.png
+00017714_024.png,No Finding,24,17714,20,M,AP,3056,2544,0.139,0.139,0,0-20,/content/nih_kaggle/images_008/images/00017714_024.png
+00014710_019.png,No Finding,19,14710,59,F,AP,2500,2048,0.168,0.168,0,40-60,/content/nih_kaggle/images_007/images/00014710_019.png
+00005335_011.png,No Finding,11,5335,57,M,PA,2500,2048,0.168,0.168,0,40-60,/content/nih_kaggle/images_003/images/00005335_011.png
+00025317_000.png,No Finding,0,25317,53,F,PA,2544,3056,0.139,0.139,0,40-60,/content/nih_kaggle/images_011/images/00025317_000.png
+00015175_001.png,No Finding,1,15175,47,M,PA,2992,2991,0.143,0.143,0,40-60,/content/nih_kaggle/images_007/images/00015175_001.png
+00005556_003.png,No Finding,3,5556,50,F,AP,2500,2048,0.171,0.171,0,40-60,/content/nih_kaggle/images_003/images/00005556_003.png
+00003177_003.png,No Finding,3,3177,36,F,PA,2992,2991,0.143,0.143,0,20-40,/content/nih_kaggle/images_002/images/00003177_003.png
+00013175_008.png,No Finding,8,13175,27,M,PA,2394,2991,0.143,0.143,0,20-40,/content/nih_kaggle/images_006/images/00013175_008.png
+00025560_006.png,No Finding,6,25560,65,M,AP,3056,2544,0.139,0.139,0,60-80,/content/nih_kaggle/images_011/images/00025560_006.png
+00016634_003.png,No Finding,3,16634,55,M,AP,2500,2048,0.168,0.168,0,40-60,/content/nih_kaggle/images_008/images/00016634_003.png
+00010267_000.png,No Finding,0,10267,45,F,AP,2048,2500,0.168,0.168,0,40-60,/content/nih_kaggle/images_005/images/00010267_000.png
+00011430_002.png,No Finding,2,11430,37,F,PA,2992,2991,0.143,0.143,0,20-40,/content/nih_kaggle/images_005/images/00011430_002.png
+00012479_002.png,No Finding,2,12479,69,M,AP,2500,2048,0.168,0.168,0,60-80,/content/nih_kaggle/images_006/images/00012479_002.png
+00015386_011.png,No Finding,11,15386,58,F,PA,2814,2991,0.143,0.143,0,40-60,/content/nih_kaggle/images_007/images/00015386_011.png
+00000829_000.png,No Finding,0,829,40,F,PA,2992,2991,0.143,0.143,0,20-40,/content/nih_kaggle/images_001/images/00000829_000.png
+00003130_006.png,No Finding,6,3130,46,M,AP,2500,2048,0.168,0.168,0,40-60,/content/nih_kaggle/images_002/images/00003130_006.png
+00006184_001.png,No Finding,1,6184,52,M,PA,2992,2991,0.143,0.143,0,40-60,/content/nih_kaggle/images_003/images/00006184_001.png
+00017930_002.png,No Finding,2,17930,60,F,PA,2992,2991,0.143,0.143,0,40-60,/content/nih_kaggle/images_008/images/00017930_002.png
+00015255_005.png,No Finding,5,15255,46,M,PA,2992,2991,0.143,0.143,0,40-60,/content/nih_kaggle/images_007/images/00015255_005.png
+00009955_001.png,No Finding,1,9955,35,F,AP,2500,2048,0.168,0.168,0,20-40,/content/nih_kaggle/images_005/images/00009955_001.png
+00002190_000.png,No Finding,0,2190,31,F,PA,2048,2500,0.171,0.171,0,20-40,/content/nih_kaggle/images_002/images/00002190_000.png
+00030370_000.png,No Finding,0,30370,81,M,AP,3056,2544,0.139,0.139,0,80+,/content/nih_kaggle/images_012/images/00030370_000.png
+00027965_000.png,No Finding,0,27965,61,M,PA,2562,2493,0.143,0.143,0,60-80,/content/nih_kaggle/images_011/images/00027965_000.png
+00030718_000.png,No Finding,0,30718,39,M,PA,2000,2020,0.194311,0.194311,0,20-40,/content/nih_kaggle/images_012/images/00030718_000.png
+00015503_001.png,No Finding,1,15503,59,M,AP,2500,2048,0.168,0.168,0,40-60,/content/nih_kaggle/images_007/images/00015503_001.png
+00001642_000.png,No Finding,0,1642,49,M,PA,2500,2048,0.168,0.168,0,40-60,/content/nih_kaggle/images_002/images/00001642_000.png
+00028852_000.png,No Finding,0,28852,62,M,PA,3056,2544,0.139,0.139,0,60-80,/content/nih_kaggle/images_012/images/00028852_000.png
+00025314_000.png,No Finding,0,25314,31,M,PA,2992,2991,0.143,0.143,0,20-40,/content/nih_kaggle/images_011/images/00025314_000.png
+00004123_000.png,No Finding,0,4123,53,M,AP,2500,2048,0.171,0.171,0,40-60,/content/nih_kaggle/images_003/images/00004123_000.png
+00005251_000.png,No Finding,0,5251,46,M,PA,2902,2897,0.143,0.143,0,40-60,/content/nih_kaggle/images_003/images/00005251_000.png
+00000291_000.png,No Finding,0,291,64,M,PA,2992,2991,0.143,0.143,0,60-80,/content/nih_kaggle/images_001/images/00000291_000.png
+00018488_002.png,No Finding,2,18488,47,M,PA,2021,2021,0.194311,0.194311,0,40-60,/content/nih_kaggle/images_009/images/00018488_002.png
+00001638_000.png,No Finding,0,1638,38,F,PA,2021,2021,0.194311,0.194311,0,20-40,/content/nih_kaggle/images_002/images/00001638_000.png
+00009626_007.png,No Finding,7,9626,43,M,PA,2992,2991,0.143,0.143,0,40-60,/content/nih_kaggle/images_005/images/00009626_007.png
+00001161_000.png,No Finding,0,1161,23,M,PA,2048,2500,0.168,0.168,0,20-40,/content/nih_kaggle/images_001/images/00001161_000.png
+00003179_004.png,No Finding,4,3179,63,F,AP,3056,2544,0.139,0.139,0,60-80,/content/nih_kaggle/images_002/images/00003179_004.png
+00014102_000.png,No Finding,0,14102,55,M,AP,2500,2048,0.168,0.168,0,40-60,/content/nih_kaggle/images_007/images/00014102_000.png
+00022740_001.png,No Finding,1,22740,36,M,PA,2544,3056,0.139,0.139,0,20-40,/content/nih_kaggle/images_010/images/00022740_001.png
+00022565_000.png,No Finding,0,22565,62,M,PA,3056,2480,0.139,0.139,0,60-80,/content/nih_kaggle/images_010/images/00022565_000.png
+00010222_004.png,No Finding,4,10222,48,M,PA,2992,2813,0.143,0.143,0,40-60,/content/nih_kaggle/images_005/images/00010222_004.png
+00024875_000.png,No Finding,0,24875,55,F,PA,2544,3038,0.139,0.139,0,40-60,/content/nih_kaggle/images_011/images/00024875_000.png
+00009392_000.png,No Finding,0,9392,30,M,PA,2992,2991,0.143,0.143,0,20-40,/content/nih_kaggle/images_005/images/00009392_000.png
+00010491_005.png,No Finding,5,10491,55,F,PA,2650,2991,0.143,0.143,0,40-60,/content/nih_kaggle/images_005/images/00010491_005.png
+00020852_012.png,No Finding,12,20852,75,M,AP,3056,2544,0.139,0.139,0,60-80,/content/nih_kaggle/images_009/images/00020852_012.png
+00011008_000.png,No Finding,0,11008,55,M,PA,2992,2991,0.143,0.143,0,40-60,/content/nih_kaggle/images_005/images/00011008_000.png
+00006714_007.png,No Finding,7,6714,29,F,AP,2500,2048,0.171,0.171,0,20-40,/content/nih_kaggle/images_004/images/00006714_007.png
+00010838_000.png,No Finding,0,10838,51,M,PA,2992,2991,0.143,0.143,0,40-60,/content/nih_kaggle/images_005/images/00010838_000.png
+00029568_000.png,No Finding,0,29568,55,F,PA,1860,1862,0.194311,0.194311,0,40-60,/content/nih_kaggle/images_012/images/00029568_000.png
+00014899_000.png,No Finding,0,14899,62,M,PA,2992,2991,0.143,0.143,0,60-80,/content/nih_kaggle/images_007/images/00014899_000.png
+00024279_000.png,No Finding,0,24279,55,M,PA,2990,2991,0.143,0.143,0,40-60,/content/nih_kaggle/images_010/images/00024279_000.png
+00018546_004.png,No Finding,4,18546,20,F,PA,2048,2500,0.168,0.168,0,0-20,/content/nih_kaggle/images_009/images/00018546_004.png
+00014004_004.png,No Finding,4,14004,55,F,AP,2500,2048,0.168,0.168,0,40-60,/content/nih_kaggle/images_007/images/00014004_004.png
+00013031_028.png,No Finding,28,13031,54,M,AP,2500,2048,0.168,0.168,0,40-60,/content/nih_kaggle/images_006/images/00013031_028.png
+00002432_001.png,No Finding,1,2432,58,F,PA,2500,2048,0.168,0.168,0,40-60,/content/nih_kaggle/images_002/images/00002432_001.png
+00017714_015.png,No Finding,15,17714,20,M,AP,3056,2544,0.139,0.139,0,0-20,/content/nih_kaggle/images_008/images/00017714_015.png
+00030447_000.png,No Finding,0,30447,22,F,PA,2021,2021,0.194311,0.194311,0,20-40,/content/nih_kaggle/images_012/images/00030447_000.png
+00009343_004.png,No Finding,4,9343,22,M,AP,2500,2048,0.168,0.168,0,20-40,/content/nih_kaggle/images_005/images/00009343_004.png
+00012479_003.png,No Finding,3,12479,69,M,AP,2500,2048,0.168,0.168,0,60-80,/content/nih_kaggle/images_006/images/00012479_003.png
+00010889_000.png,No Finding,0,10889,42,F,PA,2992,2991,0.143,0.143,0,40-60,/content/nih_kaggle/images_005/images/00010889_000.png
+00004123_004.png,No Finding,4,4123,53,M,AP,2500,2048,0.171,0.171,0,40-60,/content/nih_kaggle/images_003/images/00004123_004.png
+00001984_002.png,No Finding,2,1984,66,M,PA,2992,2991,0.143,0.143,0,60-80,/content/nih_kaggle/images_002/images/00001984_002.png
+00013031_032.png,No Finding,32,13031,54,M,PA,2992,2991,0.143,0.143,0,40-60,/content/nih_kaggle/images_006/images/00013031_032.png
+00007491_000.png,No Finding,0,7491,24,F,PA,2048,2500,0.168,0.168,0,20-40,/content/nih_kaggle/images_004/images/00007491_000.png
+00027044_000.png,No Finding,0,27044,20,M,PA,2992,2991,0.143,0.143,0,0-20,/content/nih_kaggle/images_011/images/00027044_000.png
+00016630_014.png,No Finding,14,16630,31,M,AP,2500,2048,0.168,0.168,0,20-40,/content/nih_kaggle/images_008/images/00016630_014.png
+00027142_005.png,No Finding,5,27142,56,F,AP,3056,2544,0.139,0.139,0,40-60,/content/nih_kaggle/images_011/images/00027142_005.png
+00017072_000.png,No Finding,0,17072,46,F,PA,2992,2991,0.143,0.143,0,40-60,/content/nih_kaggle/images_008/images/00017072_000.png
+00005218_005.png,No Finding,5,5218,38,M,AP,2500,2048,0.171,0.171,0,20-40,/content/nih_kaggle/images_003/images/00005218_005.png
+00014710_018.png,No Finding,18,14710,59,F,AP,2048,2500,0.168,0.168,0,40-60,/content/nih_kaggle/images_007/images/00014710_018.png
+00003288_001.png,No Finding,1,3288,54,F,PA,2730,2991,0.143,0.143,0,40-60,/content/nih_kaggle/images_002/images/00003288_001.png
+00001055_002.png,No Finding,2,1055,13,F,PA,2048,2500,0.171,0.171,0,0-20,/content/nih_kaggle/images_001/images/00001055_002.png
+00025662_004.png,No Finding,4,25662,57,M,PA,3056,2544,0.139,0.139,0,40-60,/content/nih_kaggle/images_011/images/00025662_004.png
+00004795_000.png,No Finding,0,4795,57,F,AP,2500,2048,0.171,0.171,0,40-60,/content/nih_kaggle/images_003/images/00004795_000.png
+00020974_001.png,No Finding,1,20974,60,M,PA,2992,2991,0.143,0.143,0,40-60,/content/nih_kaggle/images_010/images/00020974_001.png
+00005335_010.png,No Finding,10,5335,56,M,PA,2500,2048,0.171,0.171,0,40-60,/content/nih_kaggle/images_003/images/00005335_010.png
+00000820_021.png,No Finding,21,820,50,M,AP,2500,2048,0.168,0.168,0,40-60,/content/nih_kaggle/images_001/images/00000820_021.png
+00019908_000.png,No Finding,0,19908,23,F,PA,2658,2757,0.143,0.143,0,20-40,/content/nih_kaggle/images_009/images/00019908_000.png
+00018443_002.png,No Finding,2,18443,59,M,AP,3056,2544,0.139,0.139,0,40-60,/content/nih_kaggle/images_009/images/00018443_002.png
+00001154_002.png,No Finding,2,1154,56,F,PA,2048,2500,0.168,0.168,0,40-60,/content/nih_kaggle/images_001/images/00001154_002.png
+00010718_017.png,No Finding,17,10718,42,M,PA,2500,2048,0.168,0.168,0,40-60,/content/nih_kaggle/images_005/images/00010718_017.png
+00015923_001.png,No Finding,1,15923,7,M,AP,2048,2500,0.168,0.168,0,0-20,/content/nih_kaggle/images_007/images/00015923_001.png
+00002936_000.png,No Finding,0,2936,12,M,PA,2992,2991,0.143,0.143,0,0-20,/content/nih_kaggle/images_002/images/00002936_000.png
+00004975_006.png,No Finding,6,4975,35,M,PA,2750,2592,0.143,0.143,0,20-40,/content/nih_kaggle/images_003/images/00004975_006.png
+00004677_000.png,No Finding,0,4677,19,M,PA,2048,2500,0.171,0.171,0,0-20,/content/nih_kaggle/images_003/images/00004677_000.png
+00006479_003.png,No Finding,3,6479,49,F,PA,2048,2500,0.171,0.171,0,40-60,/content/nih_kaggle/images_003/images/00006479_003.png
+00019306_000.png,No Finding,0,19306,31,M,PA,2396,2531,0.143,0.143,0,20-40,/content/nih_kaggle/images_009/images/00019306_000.png
+00009974_002.png,No Finding,2,9974,60,M,AP,2500,2048,0.168,0.168,0,40-60,/content/nih_kaggle/images_005/images/00009974_002.png
+00020485_004.png,No Finding,4,20485,14,M,AP,2948,2216,0.139,0.139,0,0-20,/content/nih_kaggle/images_009/images/00020485_004.png
+00005305_000.png,No Finding,0,5305,56,M,PA,2500,2048,0.171,0.171,0,40-60,/content/nih_kaggle/images_003/images/00005305_000.png
+00017670_000.png,No Finding,0,17670,37,F,PA,2992,2991,0.143,0.143,0,20-40,/content/nih_kaggle/images_008/images/00017670_000.png
+00014004_001.png,No Finding,1,14004,54,F,PA,2766,2589,0.143,0.143,0,40-60,/content/nih_kaggle/images_007/images/00014004_001.png
+00016625_000.png,No Finding,0,16625,53,F,PA,2834,2517,0.143,0.143,0,40-60,/content/nih_kaggle/images_008/images/00016625_000.png
+00006098_005.png,No Finding,5,6098,28,F,AP,2500,2048,0.168,0.168,0,20-40,/content/nih_kaggle/images_003/images/00006098_005.png
+00028415_000.png,No Finding,0,28415,13,M,PA,2544,3056,0.139,0.139,0,0-20,/content/nih_kaggle/images_012/images/00028415_000.png
+00021073_002.png,No Finding,2,21073,50,M,PA,3056,2544,0.139,0.139,0,40-60,/content/nih_kaggle/images_010/images/00021073_002.png
+00005002_002.png,No Finding,2,5002,54,F,AP,2500,2048,0.168,0.168,0,40-60,/content/nih_kaggle/images_003/images/00005002_002.png
+00016987_001.png,No Finding,1,16987,52,M,PA,2992,2991,0.143,0.143,0,40-60,/content/nih_kaggle/images_008/images/00016987_001.png
+00025453_000.png,No Finding,0,25453,63,F,PA,2992,2991,0.143,0.143,0,60-80,/content/nih_kaggle/images_011/images/00025453_000.png
+00004999_000.png,No Finding,0,4999,42,F,PA,2048,2500,0.168,0.168,0,40-60,/content/nih_kaggle/images_003/images/00004999_000.png
+00028922_000.png,No Finding,0,28922,69,F,PA,2021,2021,0.194311,0.194311,0,60-80,/content/nih_kaggle/images_012/images/00028922_000.png
+00003179_000.png,No Finding,0,3179,62,F,PA,2992,2991,0.143,0.143,0,60-80,/content/nih_kaggle/images_002/images/00003179_000.png
+00010905_008.png,No Finding,8,10905,51,M,AP,2500,2048,0.168,0.168,0,40-60,/content/nih_kaggle/images_005/images/00010905_008.png
+00016571_001.png,No Finding,1,16571,75,M,AP,2500,2048,0.168,0.168,0,60-80,/content/nih_kaggle/images_008/images/00016571_001.png
+00000604_000.png,No Finding,0,604,54,F,PA,2682,2991,0.143,0.143,0,40-60,/content/nih_kaggle/images_001/images/00000604_000.png
+00018434_006.png,No Finding,6,18434,53,M,AP,3056,2544,0.139,0.139,0,40-60,/content/nih_kaggle/images_009/images/00018434_006.png
+00029817_000.png,No Finding,0,29817,67,F,PA,2021,2021,0.194311,0.194311,0,60-80,/content/nih_kaggle/images_012/images/00029817_000.png
+00022684_006.png,No Finding,6,22684,45,M,PA,2992,2991,0.143,0.143,0,40-60,/content/nih_kaggle/images_010/images/00022684_006.png
+00016888_004.png,No Finding,4,16888,54,F,AP,2500,2048,0.168,0.168,0,40-60,/content/nih_kaggle/images_008/images/00016888_004.png
+00008067_018.png,No Finding,18,8067,44,M,AP,2500,2048,0.168,0.168,0,40-60,/content/nih_kaggle/images_004/images/00008067_018.png
+00004360_011.png,No Finding,11,4360,76,M,AP,2500,2048,0.171,0.171,0,60-80,/content/nih_kaggle/images_003/images/00004360_011.png
+00012942_009.png,No Finding,9,12942,37,M,AP,2500,2048,0.168,0.168,0,20-40,/content/nih_kaggle/images_006/images/00012942_009.png
+00003263_001.png,No Finding,1,3263,40,M,AP,2500,2048,0.171,0.171,0,20-40,/content/nih_kaggle/images_002/images/00003263_001.png
+00000588_003.png,No Finding,3,588,19,M,AP,2048,2500,0.171,0.171,0,0-20,/content/nih_kaggle/images_001/images/00000588_003.png
+00001938_001.png,No Finding,1,1938,50,F,PA,2048,2500,0.168,0.168,0,40-60,/content/nih_kaggle/images_002/images/00001938_001.png
+00022759_000.png,No Finding,0,22759,24,M,PA,2544,3056,0.139,0.139,0,20-40,/content/nih_kaggle/images_010/images/00022759_000.png
+00028139_000.png,No Finding,0,28139,47,M,PA,2992,2991,0.143,0.143,0,40-60,/content/nih_kaggle/images_011/images/00028139_000.png
+00025937_000.png,No Finding,0,25937,54,F,PA,2544,3056,0.139,0.139,0,40-60,/content/nih_kaggle/images_011/images/00025937_000.png
+00005740_002.png,No Finding,2,5740,49,F,AP,2500,2048,0.168,0.168,0,40-60,/content/nih_kaggle/images_003/images/00005740_002.png
+00008067_016.png,No Finding,16,8067,44,M,AP,2500,2048,0.168,0.168,0,40-60,/content/nih_kaggle/images_004/images/00008067_016.png
+00023320_008.png,No Finding,8,23320,34,M,AP,3056,2544,0.139,0.139,0,20-40,/content/nih_kaggle/images_010/images/00023320_008.png
+00002117_003.png,No Finding,3,2117,34,F,PA,2992,2991,0.143,0.143,0,20-40,/content/nih_kaggle/images_002/images/00002117_003.png
+00002212_002.png,No Finding,2,2212,48,F,PA,2021,2020,0.194311,0.194311,0,40-60,/content/nih_kaggle/images_002/images/00002212_002.png
+00005472_000.png,No Finding,0,5472,55,F,AP,2500,2048,0.171,0.171,0,40-60,/content/nih_kaggle/images_003/images/00005472_000.png
+00007372_000.png,No Finding,0,7372,36,F,PA,2048,2500,0.168,0.168,0,20-40,/content/nih_kaggle/images_004/images/00007372_000.png
+00019861_007.png,No Finding,7,19861,66,M,AP,3056,2544,0.139,0.139,0,60-80,/content/nih_kaggle/images_009/images/00019861_007.png
+00017458_003.png,No Finding,3,17458,44,F,PA,2992,2991,0.143,0.143,0,40-60,/content/nih_kaggle/images_008/images/00017458_003.png
+00024114_000.png,No Finding,0,24114,40,M,PA,2662,2669,0.143,0.143,0,20-40,/content/nih_kaggle/images_010/images/00024114_000.png
+00014102_002.png,No Finding,2,14102,55,M,PA,2500,2048,0.168,0.168,0,40-60,/content/nih_kaggle/images_007/images/00014102_002.png
+00026120_000.png,No Finding,0,26120,66,M,PA,2810,2493,0.143,0.143,0,60-80,/content/nih_kaggle/images_011/images/00026120_000.png
+00009778_000.png,No Finding,0,9778,54,F,PA,2048,2500,0.168,0.168,0,40-60,/content/nih_kaggle/images_005/images/00009778_000.png
+00000139_002.png,No Finding,2,139,58,F,PA,2048,2500,0.171,0.171,0,40-60,/content/nih_kaggle/images_001/images/00000139_002.png
+00001708_000.png,No Finding,0,1708,48,M,PA,2614,2725,0.143,0.143,0,40-60,/content/nih_kaggle/images_002/images/00001708_000.png
+00007714_001.png,No Finding,1,7714,22,F,AP,2500,2048,0.168,0.168,0,20-40,/content/nih_kaggle/images_004/images/00007714_001.png
+00029675_000.png,No Finding,0,29675,59,M,PA,3056,2544,0.139,0.139,0,40-60,/content/nih_kaggle/images_012/images/00029675_000.png
+00001265_000.png,No Finding,0,1265,17,F,PA,2048,2500,0.171,0.171,0,0-20,/content/nih_kaggle/images_001/images/00001265_000.png
+00001200_020.png,No Finding,20,1200,24,M,AP,2500,2048,0.168,0.168,0,20-40,/content/nih_kaggle/images_001/images/00001200_020.png
+00000431_001.png,No Finding,1,431,51,M,PA,2048,2500,0.168,0.168,0,40-60,/content/nih_kaggle/images_001/images/00000431_001.png
+00016888_007.png,No Finding,7,16888,54,F,AP,2500,2048,0.168,0.168,0,40-60,/content/nih_kaggle/images_008/images/00016888_007.png
+00000467_010.png,No Finding,10,467,52,M,AP,3056,2544,0.139,0.139,0,40-60,/content/nih_kaggle/images_001/images/00000467_010.png
+00027028_015.png,Effusion,15,27028,58,M,AP,3056,2544,0.139,0.139,1,40-60,/content/nih_kaggle/images_011/images/00027028_015.png
+00011632_002.png,Edema,2,11632,57,M,AP,2500,2048,0.168,0.168,1,40-60,/content/nih_kaggle/images_006/images/00011632_002.png
+00014004_044.png,Nodule,44,14004,58,F,AP,3056,2544,0.139,0.139,1,40-60,/content/nih_kaggle/images_007/images/00014004_044.png
+00013578_000.png,Atelectasis,0,13578,38,M,PA,2992,2991,0.143,0.143,1,20-40,/content/nih_kaggle/images_006/images/00013578_000.png
+00012233_002.png,Pneumothorax,2,12233,24,F,AP,2500,2048,0.168,0.168,1,20-40,/content/nih_kaggle/images_006/images/00012233_002.png
+00020647_000.png,Effusion,0,20647,54,F,PA,2520,3056,0.139,0.139,1,40-60,/content/nih_kaggle/images_009/images/00020647_000.png
+00000820_012.png,Infiltration|Nodule,12,820,43,M,PA,2500,2048,0.171,0.171,1,40-60,/content/nih_kaggle/images_001/images/00000820_012.png
+00009717_002.png,Cardiomegaly,2,9717,49,M,PA,2992,2991,0.143,0.143,1,40-60,/content/nih_kaggle/images_005/images/00009717_002.png
+00017356_007.png,Edema|Effusion|Infiltration,7,17356,29,F,AP,2500,2048,0.168,0.168,1,20-40,/content/nih_kaggle/images_008/images/00017356_007.png
+00005556_005.png,Effusion,5,5556,50,F,AP,2500,2048,0.168,0.168,1,40-60,/content/nih_kaggle/images_003/images/00005556_005.png
+00019073_005.png,Mass|Nodule,5,19073,57,M,AP,3056,2544,0.139,0.139,1,40-60,/content/nih_kaggle/images_009/images/00019073_005.png
+00005532_005.png,Cardiomegaly|Infiltration,5,5532,38,F,PA,2992,2991,0.143,0.143,1,20-40,/content/nih_kaggle/images_003/images/00005532_005.png
+00014106_002.png,Edema|Effusion,2,14106,31,M,AP,2500,2048,0.168,0.168,1,20-40,/content/nih_kaggle/images_007/images/00014106_002.png
+00012722_003.png,Mass|Pleural_Thickening,3,12722,63,M,PA,2992,2991,0.143,0.143,1,60-80,/content/nih_kaggle/images_006/images/00012722_003.png
+00013167_000.png,Nodule,0,13167,39,F,PA,2458,2689,0.143,0.143,1,20-40,/content/nih_kaggle/images_006/images/00013167_000.png
+00008664_001.png,Pneumothorax,1,8664,41,F,PA,2730,2805,0.143,0.143,1,40-60,/content/nih_kaggle/images_004/images/00008664_001.png
+00011122_010.png,Atelectasis|Consolidation|Infiltration,10,11122,45,M,AP,2500,2048,0.168,0.168,1,40-60,/content/nih_kaggle/images_005/images/00011122_010.png
+00030059_006.png,Atelectasis,6,30059,69,M,AP,3056,2544,0.139,0.139,1,60-80,/content/nih_kaggle/images_012/images/00030059_006.png
+00006338_001.png,Mass,1,6338,53,F,PA,2048,2500,0.171,0.171,1,40-60,/content/nih_kaggle/images_003/images/00006338_001.png
