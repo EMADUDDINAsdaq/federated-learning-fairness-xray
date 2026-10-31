@@ -1,4 +1,4 @@
-# Federated Learning Aggregation Strategies for Client and Demographic Fairness in Chest X-Ray Classification under Data Imbalance
+# Evaluation of Federated Learning Aggregation Strategies under Data Imbalance on Chest X-Ray Images: Addressing Client and Demographic Fairness
 
 **Emaduddin Asdaq Syed Mohammed**
 MSc Data Science and AI, School of Computing, Newcastle University
